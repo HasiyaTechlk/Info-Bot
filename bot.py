@@ -7,9 +7,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 Bot = Client(
         "Info Bot",
-        bot_token = os.environ["BOT_TOKEN"],
-        api_id = int(os.environ["API_ID"]),
-        api_hash = os.environ["API_HASH"]
+        bot_token = os.environ["2043487587:AAEFLWH3TRGHeAd0ie23Xe_mQjhYwhrITPg"],
+        api_id = int(os.environ["7744764"]),
+        api_hash = os.environ["09fb2bd3ee46019e911149d4970bfc47"]
 )
 
 START_TEXT = """
